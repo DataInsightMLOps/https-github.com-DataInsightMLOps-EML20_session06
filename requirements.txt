@@ -13,6 +13,7 @@ hydra-optuna-sweeper==1.2.0
 
 #----------timm---------------#
 timm==0.6.7
+fairscale==0.4.12
 
 # --------- loggers --------- #
 # wandb
